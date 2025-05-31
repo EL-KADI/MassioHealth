@@ -2,9 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.dev",
+  title: "MassioHealth",
+  description: "Simple and accurate BMI calculator using your height and weight.",
 };
 
 export default function RootLayout({
